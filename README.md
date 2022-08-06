@@ -38,3 +38,5 @@ b6: tạo file .babelrc cùng cấp package.json => thêm
     useBabelRc()
   );
   b9: tạo global style - cài sass - reset css - default css
+  b10: cấu hình route
+ 
