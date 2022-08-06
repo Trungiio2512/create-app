@@ -37,6 +37,7 @@ b6: tạo file .babelrc cùng cấp package.json => thêm
     // eslint-disable-next-line react-hooks/rules-of-hooks
     useBabelRc()
   );
-  b9: tạo global style - cài sass - reset css - default css
-  b10: cấu hình route
+  b9: npm ad react-router-dom$6
+  b10: tạo global style - cài sass - reset css - default css
+  b11: cấu hình route
  
