@@ -1,10 +1,10 @@
 b1:npm create-react-app nameapp
 b2:npm i customize-cra react-app-rewired -D
 b3:"scripts": {
-    "start": "react-scripts-rewired start",
-    "build": "react-scripts-rewired build",
-    "test": "react-scripts-rewired test",
-    "eject": "react-scripts-rewired eject"
+    "start": "react-app-rewired start",
+    "build": "react-app-rewired build",
+    "test": "react-app-rewired test",
+    "eject": "react-app-rewired eject"
   },
  b4: tạo file config-overrides.js cùng cấp package.json => thêm
      module.exports =function override(config, env){
